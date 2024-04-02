@@ -1,3 +1,21 @@
+
+#         _..._
+#       .'     '.      _
+#      /    .-""-\   _/ \
+#    .-|   /:.   |  |   |
+#    |  \  |:.   /.-'-./
+#    | .-'-;:__.'    =/
+#    .'=  *=|NASA _.='
+#   /   _.  |    ;
+#  ;-.-'|    \   |
+# /   | \    _\  _\
+# \__/'._;.  ==' ==\
+#          \    \   |
+#          /    /   /
+#          /-._/-._/
+#          \   `\  \
+#           `-._/._/
+
 import colorsys
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -44,3 +62,4 @@ plt.plot(X, y_pred, color='red', linewidth=2)
 
 plt.grid(True)
 plt.show()
+#KRISTEN CUFF WAS HERE :)
