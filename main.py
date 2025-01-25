@@ -62,4 +62,4 @@ plt.plot(X, y_pred, color='red', linewidth=2)
 
 plt.grid(True)
 plt.show()
-#KRISTEN CUFF WAS HERE :)
+#KRISTEN WAS HERE :)
